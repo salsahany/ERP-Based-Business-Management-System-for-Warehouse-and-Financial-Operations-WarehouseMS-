@@ -16,7 +16,7 @@ Data Integrity: Critical operations wrapped in database transactions
 Locked Pricing: Ensures historical pricing consistency for sales records
 Approval Workflow Engine: Status-based flow with role-specific actions
 🛠️ Tech Stack
-Backend: Laravel 11 (PHP 8.x)
+Backend: Laravel 11 (PHP  8.2.28)
 Database: MySQL
 Frontend: Blade + Tailwind CSS
 Tools: Vite, DomPDF
